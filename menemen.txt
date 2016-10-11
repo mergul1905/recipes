@@ -1,0 +1,4 @@
+domates 
+biber
+
+ patlıcan
